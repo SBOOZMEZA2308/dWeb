@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    }
+.caja1{
+    padding: 30px;
+    margin: 50px auto;
+    width: 200px;
+    height: 215px;
+    background-color: beige;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgb(149, 241, 149);
+    border:2px solid greenyellow;
+    
+}
+#titulo1{
+    text-shadow: 5px 5px 5px orange;
+    text-align: center;
+}
+#texto{
+    text-shadow: 5px 5px 5px blue;
+}
