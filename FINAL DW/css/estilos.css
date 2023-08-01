@@ -1,0 +1,93 @@
+.ocultar{
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+.producto{
+    text-align: center;
+    background-color: rgb(146, 66, 179);
+    margin: 10px;
+   
+    border-color:black ;
+    
+
+}
+.resultado {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.imgProducto{
+   width: 150px;
+   height: 190px;
+  
+
+    
+}
+#imgmall{
+    text-align: center;
+}
+#si{
+    width: 600px;
+    height: 600px;
+    background-color:rgb(122, 121, 121);
+    border-radius: 20px;
+    margin: 0 auto;
+    color: white;
+    text-align:start;
+    
+}
+#img2{
+    text-align: center;
+
+
+}
+#ahorita{
+    width: 320px;
+    height: 600px;
+    border-radius: 20px;
+    margin: 0 auto;
+    float: left;
+}
+#ahora22{
+    width: 320px;
+    height: 600px;
+    border-radius: 20px;
+    margin: 0 auto; 
+}
+#acabemos{
+    float: right;
+}
+nav ul {
+    background-color: #757575;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-flex;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    transition-property: all;
+    transition-duration: 1000ms;
+}
+
+nav ul a:hover {
+    background-color: white;
+    color: #757575;
+}
+body {
+    background-image: url('https://img.freepik.com/vector-premium/ilustracion-vector-fondos-naranja-fondo-abstracto-degradado-todo-color_542898-61.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
